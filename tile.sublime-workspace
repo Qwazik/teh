@@ -1,0 +1,1811 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userphone	(index.html)"
+			],
+			[
+				"j",
+				"jquery.fancybox-buttons.js"
+			],
+			[
+				"clear",
+				"clearfix	(style.css)"
+			],
+			[
+				"price__",
+				"price__left	(holod.html)"
+			],
+			[
+				"man",
+				"manufacturers_icon_set.png	w:1879 h:45"
+			],
+			[
+				"manu",
+				"manufacturers_icon_set/"
+			],
+			[
+				"bg",
+				"bg_holod.jpg	w:1920 h:562"
+			],
+			[
+				"service__",
+				"service__text"
+			],
+			[
+				"menu",
+				"main__menu"
+			],
+			[
+				"servi",
+				"service__img"
+			],
+			[
+				"phone",
+				"phone__desc	(index.html)"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"che",
+				"checkMenu"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"bottom",
+				"bottomEdge"
+			],
+			[
+				"outer",
+				"outerHeight	(waypoint.js)"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"wa",
+				"waypoints/"
+			],
+			[
+				"ostekl",
+				"osteklenie	(index.html)"
+			],
+			[
+				"fixed",
+				"fixedStart"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"map__cont",
+				"map__contacts	(index.html)"
+			],
+			[
+				"rev",
+				"reviews_photo.png	w:160 h:160"
+			],
+			[
+				"revi",
+				"reviews__item"
+			],
+			[
+				"review",
+				"reviews__list	(index.html)"
+			],
+			[
+				"r",
+				"rewiews__nav"
+			],
+			[
+				"galla",
+				"gallary__block	(index.html)"
+			],
+			[
+				"gall",
+				"gallary__photo"
+			],
+			[
+				"gal",
+				"gallary-photo.jpg	w:328 h:245"
+			],
+			[
+				"features__i",
+				"features__img	(index.html)"
+			],
+			[
+				"varian",
+				"variants_gal	(index.html)"
+			],
+			[
+				"input",
+				"input__block	(index.html)"
+			],
+			[
+				"contacts",
+				"contacts__item	(index.html)"
+			],
+			[
+				"conta",
+				"contacts__kaluga	(index.html)"
+			],
+			[
+				"top",
+				"top_header_icons.png	w:137 h:22"
+			],
+			[
+				"top_head",
+				"top_header_right_bg.jpg	w:1147 h:46"
+			],
+			[
+				"header",
+				"header__top	(index.html)"
+			],
+			[
+				"text",
+				"textarea	(style.css)"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"ne",
+				"nedorogie"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"w",
+				"width	Attr"
+			],
+			[
+				"m",
+				"map_image.jpg	w:650 h:345"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"men",
+				"menuTrigger"
+			],
+			[
+				"al",
+				"alfabank.jpg	w:150 h:61"
+			],
+			[
+				"inv",
+				"investbank.jpg	w:153 h:73"
+			],
+			[
+				"b",
+				"bankorneft.jpg	w:157 h:92"
+			],
+			[
+				"fea",
+				"features__item	(index.html)"
+			],
+			[
+				"PT",
+				"PTSansBold"
+			],
+			[
+				"P",
+				"PTSansBold"
+			],
+			[
+				"clients",
+				"clients__left	(index.html)"
+			],
+			[
+				"pho",
+				"phone__button	(index.html)"
+			],
+			[
+				"top_",
+				"header-top_bg.jpg	w:560 h:130"
+			],
+			[
+				"logo__",
+				"logo__desc	(index.html)"
+			],
+			[
+				"fig",
+				"figcaption	(index.html)"
+			],
+			[
+				"bask",
+				"basketTop"
+			],
+			[
+				"bas",
+				"basketTop"
+			],
+			[
+				"maw",
+				"max-width"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"c",
+				"css/"
+			],
+			[
+				"libs",
+				"libs/"
+			],
+			[
+				"cs",
+				"scss/"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"respo",
+				"responsive	(header.php)"
+			],
+			[
+				"medi",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"you",
+				"youvideo__desc	(template_styles.css)"
+			],
+			[
+				"wor",
+				"workarea"
+			],
+			[
+				"que",
+				"quest	(index.html)"
+			],
+			[
+				"how__",
+				"how__img	(index.html)"
+			],
+			[
+				"main_",
+				"main__header	(index.html)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"row",
+				"rows=\"8	(comment-template.php)"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_script"
+			],
+			[
+				"fac",
+				"facebook.jpg	w:301 h:206"
+			],
+			[
+				"ca",
+				"categories__list	(index.html)"
+			],
+			[
+				"ad",
+				"advertising	(index.html)"
+			],
+			[
+				"bs3-sear",
+				"bs3-input:search:h	bs3-input-search-h"
+			],
+			[
+				"bs3-sea",
+				"bs3-input:search	bs3-input-search"
+			],
+			[
+				"gl",
+				"glide.theme.min.css"
+			],
+			[
+				"g",
+				"glide.core.min.css"
+			],
+			[
+				"page",
+				"pagenum	(index.html)"
+			],
+			[
+				"social",
+				"social__list	(index.html)"
+			],
+			[
+				"css",
+				"css/"
+			],
+			[
+				"ico",
+				"ico-facebook.png	w:31 h:32"
+			],
+			[
+				"img",
+				"img/"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar:basic	bs3-navbar-basic"
+			],
+			[
+				"norma",
+				"normalize	(normalize.css)"
+			],
+			[
+				"bs3-navbar",
+				"bs3-navbar:inverse	bs3-navbar-inverse"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"bs3-thumbnail",
+				"bs3-thumbnail:content	bs3-thumbnail-content"
+			],
+			[
+				"bs3-",
+				"bs3-col	bs3-col"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ie",
+				"ie-header-bg.jpg	w:1 h:79"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"border-ra",
+				"border-bottom-left-radius"
+			],
+			[
+				"s",
+				"slider-image1-min.jpg	w:960 h:370"
+			],
+			[
+				"active",
+				"activeRow"
+			],
+			[
+				"acti",
+				"activeRow"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"act",
+				"actClol"
+			],
+			[
+				"mous",
+				"mousemove"
+			],
+			[
+				"dete",
+				"detected"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bgp",
+				"bgpy	background-position-y"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"bdrs",
+				"bdrst	border-right-style"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"mouse",
+				"mouseover"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"soc_",
+				"soc_fb.png	w:29 h:29"
+			],
+			[
+				"click",
+				"clickdiv"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"sl",
+				"slides/"
+			],
+			[
+				"nex",
+				"nextSlider"
+			],
+			[
+				"cure",
+				"currentSlide"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"curren",
+				"currentSlide"
+			],
+			[
+				"curre",
+				"currentSlide"
+			],
+			[
+				"cu",
+				"currentSlide"
+			],
+			[
+				"node",
+				"nodeDay"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mar",
+				"marginL"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php\n$to = \"psk32@bk.ru\";\n$sitename = \"СбытСервис\";\n\n$name = trim($_POST[\"username\"]);\n$phone = trim($_POST[\"userphone\"]);\n\n$message = '\n			<html>\n			<head>\n				<title>$pagetittle</title>\n			</head>\n				<body>\n					<table border=\"1\" style=\\'font-size: 16px; border-collapse: collapse;\\'>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Имя:</td>\n							<td style=\\'padding: 5px\\'>'.$name.'</td>\n						</tr>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Телефон:</td>\n							<td style=\\'padding: 5px\\'>'.$phone.'</td>\n						</tr>\n					</table>\n				</body>\n			</html>\n			';\n\n\n$pagetittle = \"Заявка на обратный звонок с \\\"$sitename\\\"\";\n\nmail($to,$pagetittle,$message, \"Content-type: text/html; charset=\\\"utf-8\\\"\\n From: $sitename\");\n?>",
+			"file": "/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/mail.php",
+			"file_size": 843,
+			"file_write_time": 131039725867452102,
+			"settings":
+			{
+				"buffer_size": 769,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n$to = \"psk32@bk.ru\";\n$sitename = \"ПРОМЫШЛЕННЫЕ ПОЛЫ\";\n\n$name = trim($_POST[\"name\"]);\n$phone = trim($_POST[\"phone\"]);\n\n$message = '\n			<html>\n			<head>\n				<title>$pagetittle</title>\n			</head>\n				<body>\n					<table border=\"1\" style=\\'font-size: 16px; border-collapse: collapse;\\'>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Имя:</td>\n							<td style=\\'padding: 5px\\'>'.$name.'</td>\n						</tr>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Телефон:</td>\n							<td style=\\'padding: 5px\\'>'.$phone.'</td>\n						</tr>\n					</table>\n				</body>\n			</html>\n			';\n\n\n$pagetittle = \"Заявка на обратный звонок с \\\"$sitename\\\"\";\n\nmail($to,$pagetittle,$message, \"Content-type: text/html; charset=\\\"utf-8\\\"\\n From: $sitename\");\n?>",
+			"file": "/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/callback.php",
+			"file_size": 848,
+			"file_write_time": 131039725693851741,
+			"settings":
+			{
+				"buffer_size": 768,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n$to = \"psk32@bk.ru\";\n$sitename = \"ПРОМЫШЛЕННЫЕ ПОЛЫ\";\n\n$name = trim($_POST[\"name\"]);\n$phone = trim($_POST[\"phone\"]);\n$fr1 = trim($_POST[\"fr1\"]);\n$fr2 = trim($_POST[\"fr2\"]);\n$fr3 = trim($_POST[\"fr3\"]);\n$fr4 = trim($_POST[\"fr4\"]);\n$fr5 = trim($_POST[\"fr5\"]);\n\n\n$message = '\n			<html>\n			<head>\n				<title>$pagetittle</title>\n			</head>\n				<body>\n					<table border=\"1\" style=\\'font-size: 16px; border-collapse: collapse;\\'>\n						<tr style=\\'text-align: center;\\'>\n							<td style=\\'padding: 5px\\' colspan=\\'2\\'><p>Контактные данные</p></td>\n						</tr>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Имя:</td>\n							<td style=\\'padding: 5px\\'>'.$name.'</td>\n						</tr>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Телефон:</td>\n							<td style=\\'padding: 5px\\'>'.$phone.'</td>\n						</tr>\n						<tr style=\\'text-align: center;\\'>\n							<td style=\\'padding: 5px\\' colspan=\\'2\\'><p>Параметры</p></td>\n						</tr>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Площадь объекта:</td>\n							<td style=\\'padding: 5px\\'>'.$fr1.'</td>\n						</tr>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Укладка бетонной смеси:</td>\n							<td style=\\'padding: 5px\\'>'.$fr2.'</td>\n						</tr>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Армирование сеткой 150х150 мм:</td>\n							<td style=\\'padding: 5px\\'>'.$fr3.'</td>\n						</tr>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Тип полов:</td>\n							<td style=\\'padding: 5px\\'>'.$fr4.'</td>\n						</tr>\n						<tr>\n							<td style=\\'font-weight: bold; padding: 5px;\\'>Нарезка пола:</td>\n							<td style=\\'padding: 5px\\'>'.$fr5.'</td>\n						</tr>\n					</table>\n				</body>\n			</html>\n			';\n\n\n$pagetittle = \"Расчет стоимости с \\\"$sitename\\\"\";\n\nmail($to,$pagetittle,$message, \"Content-type: text/html; charset=\\\"utf-8\\\"\\n From: $sitename\");\n?>",
+			"file": "/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/calcForm.php",
+			"file_size": 2104,
+			"file_write_time": 131039725598019872,
+			"settings":
+			{
+				"buffer_size": 1901,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!doctype html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<title>Бетонные промышленные полы и полусухая стяжка в Брянске</title>\n<link href=\"css/reset.css\" rel=\"stylesheet\" type=\"text/css\">\n<link href=\"css/common.css\" rel=\"stylesheet\" type=\"text/css\">\n<script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/jquery.bxslider.min.js\"></script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"js/jquery.bxslider.css\" media=\"screen\" />\n<script type=\"text/javascript\" src=\"js/jquery.maskedinput-1.3.min.js\"></script>\n<script type=\"text/javascript\" src=\"js/main.js\"></script>\n<link rel=\"shortcut icon\" id=\"favicon\" href=\"images/favicon.ico\">\n<script type=\"text/javascript\">\n	$(document).ready(function(){\n		 $('.bxslider').bxSlider({\n			slideWidth: 340,\n			minSlides: 2,\n			maxSlides: 2,\n			slideMargin: 12,\n			pager: false\n		  });\n		  $('.bxslider1').bxSlider({\n			pager: false\n		  });\n	});\n</script>\n</head>\n<body>\n<div id=\"header\">\n	<div id=\"top_block\">\n		<div class=\"wrap\">\n			<div class=\"logo\">\n				<img src=\"images/logo.png\" alt=\"\" title=\"\">\n			</div>\n			<div class=\"descr\">\n				<h1 class=\"medium\">Устройство промышленных полов и<br> полусухой стяжки по Брянской области</h1>\n			</div>\n			<div class=\"phone\">\n				<p><strong>+7 (4832) 42-02-20</strong></p>\n				<p><strong>+7 (950) 692-00-33</strong></p>\n				<!--<p><strong><a href=\"psk32@bk.ru\">psk32@bk.ru</a></strong></p>-->\n				<a href=\"#1\" class=\"call_me\">Заказать звонок</a>\n			</div>\n			<div class=\"clr\"></div>\n		</div>\n	</div>\n	<div id=\"main_block\">\n		<div class=\"wrap\">\n			<div class=\"left\">\n				<h2><strong>Промышленные полы</strong></h2>\n				<h3 class=\"light\">Системы бетонных упрочненных и полимерных наливных полов.</h3>\n				<h4 class=\"xblack\">с гарантией качества</h4>\n				<div class=\"form\">\n					<h5></strong>ЗАКАЗАТЬ ЗВОНОК</strong><br></h5>					\n					<form id=\"callback1\" method=\"post\" action=\"\" class=\"feedform\">\n						<input type=\"text\" name=\"name\" class=\"inp name\" placeholder=\"Ваше имя*\"/>\n						<p class=\"sends-response1 error\"></p>\n						<input type=\"text\" name=\"phone\" class=\"inp phone1\" placeholder=\"Ваш телефон*\"/>\n						<p class=\"sends-response2 error\"></p>\n						<input type=\"submit\" value=\"\" class=\"button\" /><!--Отпарвить кнопка-->\n					</form>	\n					<p>Вся информация является конфиденциальной<br>*Поля отмеченные звездочкой обязательны для заполнения</p>\n				</div>\n			</div>\n			<div class=\"clr\"></div>\n			<div id=\"benefits\">\n				<ul>\n					<li>\n						<div class=\"img_b\">\n							<img src=\"images/ben1.png\" alt=\"\" title=\"\">\n						</div>\n						<div class=\"text_b\">\n							<p class=\"medium\">Гарантия на проектные решения 5 лет</p>\n						</div>\n						<div class=\"clr\"></div>\n					</li>\n						<li>\n						<div class=\"img_b\">\n							<img src=\"images/ben2.png\" alt=\"\" title=\"\">\n						</div>\n						<div class=\"text_b\">\n							<p class=\"medium\">Соблюдение технологий и СНиП</p>\n						</div>\n						<div class=\"clr\"></div>\n					</li>\n						<li>\n						<div class=\"img_b\">\n							<img src=\"images/ben3.png\" alt=\"\" title=\"\">\n						</div>\n						<div class=\"text_b\">\n							<p class=\"medium\">Качественно и<br> в короткие сроки</p>\n						</div>\n						<div class=\"clr\"></div>\n					</li>\n				</ul>\n				<div class=\"clr\"></div>\n			</div>\n		</div>\n	</div>\n</div>\n<div id=\"block1\">\n	<div class=\"wrap\">\n		<h2 class=\"light\">ВИДЫ ПОЛОВ ДЛЯ ПРОМЫШЛЕННЫХ ПОМЕЩЕНИЙ</h2>\n		<ul>\n			\n			<li>\n				<img src=\"images/pol1.png\" alt=\"\" title=\"\">\n				<!--<p class=\"cost\"><strong>300</strong><span class=\"medium\">руб/м2*</span></p>-->\n				<h3><strong>ТОППИНГОВЫЕ БЕТОННЫЕ<br> ПОЛЫ</strong></h3>\n				<p>Упрочнающая смесь обеспечивает защиту бетонного основания. Топпинг герметизирует покрытие и предает ему необходимую прочность и цвет.</p>\n			</li>\n			<li>\n				<img src=\"images/pol2.png\" alt=\"\" title=\"\">\n				<!--<p class=\"cost\"><strong>450</strong><span class=\"medium\">руб/м2*</span></p>-->\n				<h3><strong>ПОЛИМЕРНЫЕ НАЛИВНЫЕ ПОЛЫ</strong></h3>\n				<p>(эпоксидные и полиуретановые)<br>Полимеры характеризуются износостойкостью, идеальной ровностью, многообразием фактур. Отвечают высоким требованиям к чистоте и гигиене.</p>\n			</li>\n			<li>\n				<img src=\"images/pol3.png\" alt=\"\" title=\"\">\n				<!--<p class=\"cost\"><strong>500</strong><span class=\"medium\">руб/м2*</span></p>-->\n				<h3><strong>ПОЛУСУХАЯ СТЯЖКА<br>  ПОЛА</strong></h3>\n				<p>Механизированная стяжка пола с фиброволокном - это идеально ровный пол с отсутствием трещин и неровностей. Основание  безупречно подходит под плитку, паркет, линолеум, ламинат.</p>\n			</li>\n		</ul>\n		<div class=\"clr\"></div>\n		<!--<p style=\"text-align:center;font-weight:bold; margin-top:15px\">*Цена указана без учета стоимости материалов</p>-->\n	</div>\n</div>\n<div id=\"consult\">\n	<div class=\"wrap\">\n		<h3><strong>ОСТАВЬТЕ ЗАЯВКУ</strong></h3>\n		<h4>и получите бесплатную консультацию специалиста</h4>\n		<h5>Наш специалист подробно расскажет,<br>\n		какой пол подойдет для Вашего помещения</h5>\n		<div class=\"form\">			\n			<form id=\"callback2\" method=\"post\" action=\"\" class=\"feedform\">\n				<input type=\"text\" name=\"name\" class=\"inp name\" placeholder=\"Ваше имя*\"/>\n				<p class=\"sends-response1 error\"></p>\n				<input type=\"text\" name=\"phone\" class=\"inp phone1\" placeholder=\"Ваш телефон*\"/>\n				<p class=\"sends-response2 error\"></p>\n				<input type=\"submit\" value=\"\" class=\"button\" />\n			</form>	\n		</div>\n		<div class=\"clr\"></div>\n	</div>\n</div>\n<div id=\"prop\">\n	<div class=\"wrap\">\n		<h2 class=\"light\">СВОЙСТВА КАЧЕСТВЕННО УСТРОЕННЫХ ПОЛОВ</h2>\n		<div class=\"left\">\n			<ul>\n				<li>\n					<div class=\"text\">\n						Малозатратны в эксплуатации\n					</div>\n					<div class=\"img\">\n						<img src=\"images/prop1.png\" alt=\"\" title=\"\">\n					</div>\n					<div class=\"clr\"></div>\n				</li>\n				<li>\n					<div class=\"text\">\n						Отсутствие пылеобразования\n					</div>\n					<div class=\"img\">\n						<img src=\"images/prop2.png\" alt=\"\" title=\"\">\n					</div>\n					<div class=\"clr\"></div>\n				</li>\n				<li>\n					<div class=\"text\">\n						Не скользят\n					</div>\n					<div class=\"img\">\n						<img src=\"images/prop3.png\" alt=\"\" title=\"\">\n					</div>\n					<div class=\"clr\"></div>\n				</li>\n				<li>\n					<div class=\"text\">\n						Великолепно отражают звук\n					</div>\n					<div class=\"img\">\n						<img src=\"images/prop4.png\" alt=\"\" title=\"\">\n					</div>\n					<div class=\"clr\"></div>\n				</li>\n				<li>\n					<div class=\"text\">\n						Идеальная выносливость и стойкость к механическим нагрузкам\n					</div>\n					<div class=\"img\">\n						<img src=\"images/prop5.png\" alt=\"\" title=\"\">\n					</div>\n					<div class=\"clr\"></div>\n				</li>\n			</ul>\n			<div class=\"clr\"></div>\n		</div>\n		<div class=\"right\">\n			<ul>\n				<li>\n					<div class=\"img\">\n						<img src=\"images/prop6.png\" alt=\"\" title=\"\">\n					</div>\n					<div class=\"text\">\n						Длительный срок эксплуатации\n					</div>\n					<div class=\"clr\"></div>\n				</li>\n				<li>\n					<div class=\"img\">\n						<img src=\"images/prop7.png\" alt=\"\" title=\"\">\n					</div>\n					<div class=\"text\">\n						Привлекательный внешний вид\n					</div>\n					<div class=\"clr\"></div>\n				</li>\n				<li>\n					<div class=\"img\">\n						<img src=\"images/prop8.png\" alt=\"\" title=\"\">\n					</div>\n					<div class=\"text\">\n						Пожаробезопасны\n					</div>\n					<div class=\"clr\"></div>\n				</li>\n				<li>\n					<div class=\"img\">\n						<img src=\"images/prop9.png\" alt=\"\" title=\"\">\n					</div>\n					<div class=\"text\">\n						Безупречно ровные полы, отсутствие швов, герметичность\n					</div>\n					<div class=\"clr\"></div>\n				</li>\n				<li>\n					<div class=\"img\">\n						<img src=\"images/prop10.png\" alt=\"\" title=\"\">\n					</div>\n					<div class=\"text\">\n						Стойки<br>к химическим соединениям\n					</div>\n					<div class=\"clr\"></div>\n				</li>\n			</ul>\n		</div>\n		<div class=\"clr\"></div>\n	</div>\n</div>\n<div id=\"calc\">\n	<div class=\"wrap\">\n		<div class=\"top\">\n			<h2><strong>РАССЧИТАЙТЕ СТОИМОСТЬ УСТРОЙСТВА ПОЛА<br>ДЛЯ ВАШЕГО ПОМЕЩЕНИЯ</strong></h2>\n			<h4 class=\"medium\">воспользуйтесь простым способом узнать стоимость работ<br>и сроки выполнения проекта</h4>\n		</div>\n		<div class=\"form\">\n			<form id=\"formPrice\" method=\"post\" action=\"\" class=\"feedform\" id=\"form_id\">\n				<h3 class=\"light\">Площадь объекта</h3>\n				<input type=\"text\" name=\"fr1\" id=\"ploshad\" class=\"inp pl fr_1\" placeholder=\"100м\"/><span id=\"sends-response3\"></span>\n				<h5 class=\"light\">Выберите необходимые параметры:</h5>\n				<div class=\"center\">\n					<div class=\"left\">\n						<p>Укладка бетонной смеси</p>\n						<p>Армирование сеткой 150х150 мм</p>\n						<p style=\"padding:15px 0 10px;\">Тип полов</p>\n						<p style=\"padding:15px 0 10px;\">Нарезка пола</p>\n					</div>\n					<div class=\"right\">\n						<select class=\"fr_2\" name=\"fr2\">\n							<option>Выберите толщину слоя</option>\n							<option>80 мм</option>\n							<option>100 мм</option>\n							<option>120 мм</option>\n							<option>150 мм</option>\n							<option>200 мм</option>\n						</select>\n						<select class=\"fr_3\" name=\"fr3\">\n							<option>Выберите диаметр арматуры</option>\n							<option>5 мм</option>\n							<option>8 мм</option>\n							<option>10 мм</option>\n							<option>12 мм</option>\n						</select>\n						<select class=\"fr_4\" name=\"fr4\">\n							<option>Выберите тип пола</option>\n							<option>Топинговый пол</option>\n							<option>Полусухая стяжка</option>\n							<option>Эпоксидный пол</option>\n							<option>Наливной пол</option>\n						</select>\n						<select class=\"fr_5\" name=\"fr5\">\n							<option>Выберите параметр</option>\n							<option>Да</option>\n							<option>Нет</option>\n						</select>\n						<input type=\"button\" value=\"\" id=\"order1\" class=\"button form_r_on\" />\n					</div>\n				</div>\n				<div class=\"form_r\">\n	<a href=\"#1\" class=\"close\"></a>\n	<h2><strong>Узнать стоимость</strong></h2>\n	<h3>работ и сроки выполнения проекта</h3>\n	<p>Наш менеджер свяжется с Вами и предоставит смету расчета <strong>Бесплатно</strong><div class=\"clr\"></div></p>\n	<div class=\"left\">\n		<div id=\"result_div_id\">\n		\n		</div>\n	</div>\n	<div class=\"right\">\n		<div class=\"form\">			\n				<input type=\"text\" name=\"name\" class=\"inp name\" placeholder=\"Ваше имя*\"/>\n				<p class=\"sends-response1 error\"></p>\n				<input type=\"text\" name=\"phone\" class=\"inp phone1\" placeholder=\"Ваш телефон*\"/>\n				<p class=\"sends-response2 error\"></p>\n				<input type=\"submit\" value=\"\" class=\"button\" />\n			<p>Вся информация является конфиденциальной<br>\n				*Поля отмеченные звездочкой обязательны для заполнения</p>\n		</div>\n	</div>\n	<div class=\"clr\"></div>\n</div>\n			</form>	\n		</div>\n	</div>\n</div>\n<div id=\"steps\">\n	<div class=\"wrap\">\n		<h2 class=\"light\">ЭТАПЫ СОТРУДНИЧЕСТВА</h2>\n		<ul>\n			<li>\n				<img src=\"images/step1.png\" alt=\"\" title=\"\">\n				<p>Заявка на сайте или звонок в компанию</p>\n			</li>\n			<li class=\"str\"><img src=\"images/str.png\" alt=\"\" title=\"\"></li>\n			<li>\n				<img src=\"images/step2.png\" alt=\"\" title=\"\">\n				<p>Выезд специалиста с 5 летним стажем для замеров</p>\n			</li>\n			<li class=\"str\"><img src=\"images/str.png\" alt=\"\" title=\"\"></li>\n			<li>\n				<img src=\"images/step3.png\" alt=\"\" title=\"\">\n				<p>Согласование цены и заключение договора</p>\n			</li>\n			<li class=\"str1\"><img src=\"images/str1.png\" alt=\"\" title=\"\"></li>\n			<li>\n				<img src=\"images/step4.png\" alt=\"\" title=\"\">\n				<p>Разработка проектного решения</p>\n			</li>\n			<li class=\"str2\"><img src=\"images/str2.png\" alt=\"\" title=\"\"></li>\n			<li>\n				<img src=\"images/step5.png\" alt=\"\" title=\"\">\n				<p>Внесение предоплаты и начало выполнения работ</p>\n			</li>\n			<li class=\"str\"><img src=\"images/str.png\" alt=\"\" title=\"\"></li>\n			<li>\n				<img src=\"images/step6.png\" alt=\"\" title=\"\">\n				<p>Сдача объекта и окончательный расчет</p>\n			</li>\n		</ul>\n		<div class=\"clr\"></div>\n	</div>\n</div>\n<div id=\"works\">\n	<div class=\"wrap\">\n		<h2 class=\"light\">выполненные работы</h2>\n		<ul class=\"bxslider\">\n			<li>\n				<img src=\"images/work1.jpg\" alt=\"\" title=\"\">\n				<h3><strong>Склад.<br>Топинговые полы</strong></h3>\n				<p>Хотите узнать стоимость подобного проекта? Оставьте нам заявку</p>\n				<a href=\"#1\" class=\"call_me\"></a>\n			</li>\n			<li>\n				<img src=\"images/work2.jpg\" alt=\"\" title=\"\">\n				<h3><strong>Офисный центр<br>Эпоксидные полы</strong></h3>\n				<p>Хотите узнать стоимость подобного проекта? Оставьте нам заявку</p>\n				<a href=\"#1\" class=\"call_me\"></a>\n			</li>\n			<li>\n				<img src=\"images/toping.jpg\" alt=\"\" title=\"\">\n				<h3><strong>Многоквартирный дом<br>Полусухая стяжка</strong></h3>\n				<p>Хотите узнать стоимость подобного проекта? Оставьте нам заявку</p>\n				<a href=\"#1\" class=\"call_me\"></a>\n			</li>\n			<li>\n				<img src=\"images/epoxy.jpg\" alt=\"\" title=\"\">\n				<h3><strong>Ангар<br>Полимерные полы</strong></h3>\n				<p>Хотите узнать стоимость подобного проекта? Оставьте нам заявку</p>\n				<a href=\"#1\" class=\"call_me\"></a>\n			</li>\n		</ul>\n	</div>\n</div>\n\n\n<div id=\"map\">\n	<h2 class=\"light\">КОНТАКТЫ</h2>\n	<script type=\"text/javascript\" charset=\"utf-8\" src=\"https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=Jko4doF65HRUsz0OcvKayVII0RsZQxMy&width=100%&height=420&lang=ru_RU&sourceType=constructor\"></script>\n	\n	\n\n	<div class=\"wrap\">\n		<div class=\"map_info\">\n			<img src=\"images/map.png\" alt=\"\" title=\"\">\n			<h3>Остались вопросы?</h3>\n			<h4><strong>Звоните!</strong></h4>\n			<h4><strong>+7 (4832) 42-02-20<br>+7 (950) 692-00-33</strong></h4>\n			<p class=\"light\">или<br><a href=\"#1\" class=\"call_me\">закажите звонок менеджера</a></p>\n		</div>\n	</div>\n</div>\n<div id=\"footer\">\n	<div class=\"wrap\">\n		<div class=\"left\">\n		<img src=\"images/logo.png\" alt=\"\" title=\"\">\n\n		<!--LiveInternet counter--><script type=\"text/javascript\"><!--\ndocument.write(\"<a href='//www.liveinternet.ru/click' \"+\n\"target=_blank><img src='//counter.yadro.ru/hit?t20.2;r\"+\nescape(document.referrer)+((typeof(screen)==\"undefined\")?\"\":\n\";s\"+screen.width+\"*\"+screen.height+\"*\"+(screen.colorDepth?\nscreen.colorDepth:screen.pixelDepth))+\";u\"+escape(document.URL)+\n\";\"+Math.random()+\n\"' alt='' title='LiveInternet: показано число просмотров за 24\"+\n\" часа, посетителей за 24 часа и за сегодня' \"+\n\"border='0' width='88' height='31'><\\/a>\")\n//--></script><!--/LiveInternet-->\n\n<!-- Yandex.Metrika counter --> <script type=\"text/javascript\"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter36423055 = new Ya.Metrika({ id:36423055, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName(\"script\")[0], s = d.createElement(\"script\"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = \"text/javascript\"; s.async = true; s.src = \"https://mc.yandex.ru/metrika/watch.js\"; if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); } })(document, window, \"yandex_metrika_callbacks\"); </script> <noscript><div><img src=\"https://mc.yandex.ru/watch/36423055\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript> <!-- /Yandex.Metrika counter -->\n\n		</div>\n		<div class=\"right-left\">\n			Наши контакты:\n			<p>г. Брянск, ул. 22 Съезда КПСС, д.101г оф. 15 </p>\n			<p>Работаем с 09:00 до 18:00</p>\n		</div>\n		\n		<div class=\"right\">\n			Устройство промышленных полов и полусухой стяжки по Брянской области\n		</div>\n		<div class=\"clr\"></div>\n	</div>\n</div>\n<div class=\"call_me_f\">\n<a href=\"#1\" class=\"close\"></a>\n	<h3><strong>Заказать звонок</strong></h3>\n	<form id=\"callback3\" method=\"post\" action=\"\" class=\"feedform\">\n				<input type=\"text\" name=\"name\" class=\"inp name\" placeholder=\"Ваше имя*\"/>\n				<p class=\"sends-response1 error\"></p>\n				<input type=\"text\" name=\"phone\" class=\"inp phone1\" placeholder=\"Ваш телефон*\"/>\n				<p class=\"sends-response2 error\"></p>\n				<input type=\"submit\" value=\"\" class=\"button\" />\n			</form>	\n	<p>Вся информация является конфиденциальной<br>\n*Поля отмеченные звездочкой обязательны для заполнения</p>\n</div>\n<div class=\"cost_f\">\n<a href=\"#1\" class=\"close\"></a>\n	<h3><strong>Заказать звонок</strong></h3>\n	<form id=\"callback4\" method=\"post\" action=\"\" class=\"feedform\">\n				<input type=\"text\" name=\"name\" class=\"inp name\" placeholder=\"Ваше имя*\"/>\n				<p class=\"sends-response1 error\"></p>\n				<input type=\"text\" name=\"phone\" class=\"inp phone1\" placeholder=\"Ваш телефон*\"/>\n				<p class=\"sends-response2 error\"></p>\n				<input type=\"submit\" value=\"\" class=\"button\" />\n			</form>	\n	<p>Вся информация является конфиденциальной<br>\n*Поля отмеченные звездочкой обязательны для заполнения</p>\n</div>\n\n\n\n\n\n\n\n</body>\n<script>\n	\n /*=====================================================\n                    forms handler\n =====================================================*/\n\n/*$('#callback1, #callback2, #callback3, #callback4, #formPrice').submit(function(){\n	var dataForm = $(this).serialize();\n\n	$.ajax({\n	    type: 'POST',\n	    url: 'forms/callback.php',\n	    data: dataForm\n	})\n	.success(function() {\n	    console.log(dataForm);\n	    alert('Спасибо за сообщение! Мы с вами обязательно свяжемся.')\n	});\n\n	return false;\n});*/\n\n\n</script>\n\n\n</html>",
+			"file": "/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/index 2.html",
+			"file_size": 20437,
+			"file_write_time": 131039710670876684,
+			"settings":
+			{
+				"buffer_size": 16890,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "function check_phone(obj) {\n \n	var val = obj.val();\n\n	if(val.length > 5  && val != 'Введите номер телефона') {\n		obj.removeClass('error');\n		obj.addClass('not_error');\n		return true;\n	} else {\n		obj.removeClass('not_error');\n		obj.addClass('error');\n	}\n\n};\n\nfunction check_email(obj) {\n \n	var val = obj.val();\n	var rv_email = /^([a-z0-9_\\.-])+@[a-z0-9-]+\\.([a-z]{2,4}\\.)?[a-z]{2,4}$/i;\n\n	if(val.length > 5  && val != 'Введите e-mail' && rv_email.test(val)) {\n		obj.removeClass('error');\n		obj.addClass('not_error');\n		return true;\n	} else {\n		obj.removeClass('not_error');\n		obj.addClass('error');\n	}\n\n};\nfunction check_name(obj) {\n \n	var val = obj.val();\n\n	if(val.length > 1  && val != 'Введите площадь'){\n		obj.removeClass('error1');\n		obj.addClass('not_error1');\n		return true;\n	} else {\n		obj.removeClass('not_error1');\n		obj.addClass('error1');\n	}\n\n};\nfunction AjaxFormRequest1(result_id,form_id,url) { \n	jQuery.ajax({ \n		url:     url, //Адрес подгружаемой страницы \n		type:     \"POST\", //Тип запроса \n		dataType: \"html\", //Тип данных \n		data: jQuery(form_id).serialize(),  \n		success: function(response) { //Если все нормально \n			$(\"input.inp\").removeClass(\"active\");\n			$(\"input.inp\").attr(\"value\", \"\");\n			$(\"feedsend\").attr(\"disabled\", \"\");\n			// window.location.href = \"thx.html\";\n			alert('Спасибо за сообщение! Мы с вами обязательно свяжемся.');\n				$('#callForm').trigger('reveal:close');\n		}, \n		error: function(response) { //Если ошибка \n			alert(\"Возникла ошибка. Попробуйте отправить еще раз.\");\n		} \n	});\n}\n       function AjaxFormRequest(result_id,form_id,url) {\n                jQuery.ajax({\n                    url:     url, //Адрес подгружаемой страницы\n                    type:     \"POST\", //Тип запроса\n                    dataType: \"html\", //Тип данных\n                    data: jQuery(\"#\"+form_id).serialize(), \n                    success: function(response) { //Если все нормально\n                    document.getElementById(result_id).innerHTML = response;\n                },\n                error: function(response) { //Если ошибка\n                document.getElementById(result_id).innerHTML = \"Ошибка при отправке формы\";\n                }\n             });\n        }\n$(document).ready(function(){\n$(\"input[name='phone']\").each(function() {\n		$(this).mask(\"+7 (999) 999-9999\");\n	});\n	$(\".call_me\").click(function(){\n		$(\".call_me_f\").slideDown();\n	});\n	$(\".close\").click(function(){\n		$(\".call_me_f\").slideUp();\n		$(\".form_r\").slideUp();\n	});\n\n	$(\"#calc form\").submit(function() {\n		if ($(this).find(\".name\").attr(\"value\") != \"\") {\n			if ($(this).find(\".phone1\").attr(\"value\") != \"\") {\n			if ($(this).find(\".phone1\").attr(\"value\") != \"\") {\n					$(\"feedsend\").attr(\"disabled\", \"disabled\");\n					AjaxFormRequest1(\"#message\", this, \"../forms/calcForm.php\");\n	$(\".over\").fadeOut();\n			}\n			} else {\n				$(this).find('.sends-response2').show();\n				$(this).find('.sends-response1').hide();\n			$(this).find('.sends-response2').html('Укажите телефон');\n			$(this).find(\".phone1\").focus();\n			}\n		} else {\n			$(this).find('.sends-response1').show();\n		$(this).find('.sends-response1').html('Укажите имя');\n		$(this).find(\".name\").focus();\n		}\n			\n		return false;\n	});\n\n		$(\".call_me_f form\").submit(function() {\n		if ($(this).find(\".name\").attr(\"value\") != \"\") {\n			if ($(this).find(\".phone1\").attr(\"value\") != \"\") {\n			if ($(this).find(\".phone1\").attr(\"value\") != \"\") {\n					$(\"feedsend\").attr(\"disabled\", \"disabled\");\n					AjaxFormRequest1(\"#message\", this, \"../forms/callback.php\");\n	$(\".over\").fadeOut();\n			}\n			} else {\n				$(this).find('.sends-response2').show();\n				$(this).find('.sends-response1').hide();\n			$(this).find('.sends-response2').html('Укажите телефон');\n			$(this).find(\".phone1\").focus();\n			}\n		} else {\n			$(this).find('.sends-response1').show();\n		$(this).find('.sends-response1').html('Укажите имя');\n		$(this).find(\".name\").focus();\n		}\n			\n		return false;\n	});	\n		$(\"#consult form\").submit(function() {\n		if ($(this).find(\".name\").attr(\"value\") != \"\") {\n			if ($(this).find(\".phone1\").attr(\"value\") != \"\") {\n			if ($(this).find(\".phone1\").attr(\"value\") != \"\") {\n					$(\"feedsend\").attr(\"disabled\", \"disabled\");\n					AjaxFormRequest1(\"#message\", this, \"../forms/callback.php\");\n	$(\".over\").fadeOut();\n			}\n			} else {\n				$(this).find('.sends-response2').show();\n				$(this).find('.sends-response1').hide();\n			$(this).find('.sends-response2').html('Укажите телефон');\n			$(this).find(\".phone1\").focus();\n			}\n		} else {\n			$(this).find('.sends-response1').show();\n		$(this).find('.sends-response1').html('Укажите имя');\n		$(this).find(\".name\").focus();\n		}\n			\n		return false;\n	});	\n		$(\"#header form\").submit(function() {\n		if ($(this).find(\".name\").attr(\"value\") != \"\") {\n			if ($(this).find(\".phone1\").attr(\"value\") != \"\") {\n			if ($(this).find(\".phone1\").attr(\"value\") != \"\") {\n					$(\"feedsend\").attr(\"disabled\", \"disabled\");\n					AjaxFormRequest1(\"#message\", this, \"../forms/callback.php\");\n	$(\".over\").fadeOut();\n			}\n			} else {\n				$(this).find('.sends-response2').show();\n				$(this).find('.sends-response1').hide();\n			$(this).find('.sends-response2').html('Укажите телефон');\n			$(this).find(\".phone1\").focus();\n			}\n		} else {\n			$(this).find('.sends-response1').show();\n		$(this).find('.sends-response1').html('Укажите имя');\n		$(this).find(\".name\").focus();\n		}\n			\n		return false;\n	});\n	$(\"#order1\").on('click', function(){\n		if(check_name($('#ploshad')) ){\n				$('#sends-response3').html('');\n				$(\".form_r\").slideDown();\n			} else {\n				$('#sends-response3').slideDown();\n				$('#sends-response3').html('Укажите площадь');\n				return false;\n			} \n	});\n});",
+			"file": "/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/main.js",
+			"file_size": 6214,
+			"file_write_time": 131039718456336075,
+			"settings":
+			{
+				"buffer_size": 5630,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/qwazi/megarealty.ua/ru/tourism/otdyh-podbor-tura/index.html",
+			"settings":
+			{
+				"buffer_size": 8163,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 61.0,
+		"last_filter": "beauty",
+		"selected_items":
+		[
+			[
+				"beauty",
+				"HTMLBeautify"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"ja",
+				"Javascript Beautify"
+			],
+			[
+				"bea ",
+				"HTMLBeautify"
+			],
+			[
+				"beatu",
+				"HTMLBeautify"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gulp",
+				"Set Syntax: Gulpfile JS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"ta",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"tag ",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pac rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: $()"
+			],
+			[
+				"Snippet: rc",
+				"Snippet: bs3-row-col"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"npm",
+				"npm: Run..."
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"browsrr",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"pac re",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pac i",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"syn htl",
+				"Set Syntax: HTML"
+			],
+			[
+				"pac ",
+				"Package Control: Install Package"
+			],
+			[
+				"Prettify",
+				"HTMLPrettify"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"synta css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/qwazi/AppData/Local/Temp/Rar$DIa0.894/По сайту.txt",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/template 2.php",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/section.php",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/news.php",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/detail.php",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/template.php",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/mail.php",
+		"/C/Open Server/domains/teh/js/main.js",
+		"/C/Open Server/domains/teh/scss/style.scss",
+		"/C/Open Server/domains/teh/css/style.css",
+		"/D/Download/Browsers/WowCircle 6.2.3/WTF/Config.wtf",
+		"/D/Download/Browsers/WowCircle 6.2.3/Data/config/32/50/325095a916ea88d9fc0c522be7260551",
+		"/D/Download/Browsers/WowCircle 6.2.3/Launcher.db",
+		"/D/Download/Browsers/WowCircle 6.2.3/WoW.mfil",
+		"/D/Download/Browsers/WowCircle 6.2.3/dbghelp.dll",
+		"/C/Users/qwazi/Desktop/1 (2).txt",
+		"/C/Open Server/domains/teh/holod.html",
+		"/C/Open Server/domains/teh/index.html",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/jquery 2.js",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/jquery.js",
+		"/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/index 2.html",
+		"/C/Users/qwazi/AppData/Local/Temp/Rar$DIa0.782/Changelog.txt",
+		"/C/Users/qwazi/Desktop/start/gulpfile.js",
+		"/C/Users/qwazi/Desktop/start/package.json",
+		"/C/Users/qwazi/Desktop/start/scss/main.scss",
+		"/C/Users/qwazi/Desktop/start/index.html",
+		"/C/Users/qwazi/Desktop/start/scss/style.scss",
+		"/C/Open Server/domains/teh/scss/main.scss",
+		"/C/Open Server/domains/teh/css/main.css",
+		"/C/Users/qwazi/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/qwazi/AppData/Local/Temp/Rar$DIa0.355/fonts.css",
+		"/C/Users/qwazi/AppData/Local/Temp/Rar$DIa0.891/fonts.css",
+		"/C/Users/qwazi/AppData/Local/Temp/Rar$DIa0.899/fonts.css",
+		"/C/Open Server/domains/teh/package.json",
+		"/C/Users/qwazi/AppData/Local/Temp/Rar$DIa0.871/README.txt",
+		"/C/Users/qwazi/AppData/Local/Temp/Rar$DIa0.017/main.js",
+		"/C/Open Server/domains/balkn/index.html",
+		"/C/Users/qwazi/Desktop/teh/package.json",
+		"/C/Open Server/domains/balkn/js/main.js",
+		"/C/Open Server/domains/teh/.bowerrc",
+		"/C/Open Server/domains/teh/bower.json",
+		"/C/Open Server/domains/teh/gulpfile.js",
+		"/C/Users/qwazi/Desktop/gulp/start/package.json",
+		"/C/Open Server/domains/balkn/libs/waypoints/src/waypoint.js",
+		"/C/Users/qwazi/Desktop/ssss.txt",
+		"/C/Users/qwazi/Desktop/i.txt",
+		"/C/Open Server/domains/balkn/scss/style.scss",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-45-06-1280.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-45-09-9600.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-46-25-7190.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-46-28-5210.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-46-35-4470.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-46-54-2900.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-47-04-0940.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-47-55-7070.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-48-00-2800.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-48-03-3500.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-49-43-1690.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_12-43-47-6320.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-43-28-8250.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-43-32-7360.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_14-43-26-7030.txt",
+		"/C/Open Server/domains/balkn/css/1.css",
+		"/C/Open Server/domains/balkn/css/12.css",
+		"/C/Open Server/domains/start/main.css",
+		"/C/Open Server/domains/balkn/js/main1.js",
+		"/C/Open Server/domains/balkn/mail.php",
+		"/C/Open Server/domains/start/index.html",
+		"/C/Open Server/userdata/temp/email/2016-03-29_12-35-40-9980.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_12-29-15-6090.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_12-29-15-6070.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_12-28-51-3250.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-29_12-41-47-9780.txt",
+		"/C/Open Server/domains/balk/fonts/fonts.css",
+		"/C/Open Server/domains/balk/css/bootstrap.css",
+		"/C/Open Server/domains/balk/js/plugins.js",
+		"/C/Open Server/domains/matkap/js/main.js",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-24-31-8810.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-24-50-7650.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-25-00-1190.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-29-55-9400.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-29-38-8390.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-28-19-9460.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-30-19-2650.txt",
+		"/C/Users/qwazi/Desktop/g/start/package.json",
+		"/C/Users/qwazi/security/battle.net.txt",
+		"/C/Open Server/domains/balk/scss/style.scss",
+		"/C/Open Server/domains/balk/assets/templates/site/css/main.css",
+		"/C/Open Server/domains/balk/mail.php",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-27-02-4040.txt",
+		"/C/Open Server/domains/balk/js/main.js",
+		"/C/Users/qwazi/YandexDisk/main.js",
+		"/C/Open Server/domains/balk/css/style.css",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-32-36-3790.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-33-02-8270.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-41-36-5020.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-42-34-7300.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-44-29-4970.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-45-00-9190.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-44-29-9190.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-48-00-1300.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-47-53-1910.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-47-44-2450.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-47-28-4380.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-48-54-8560.txt",
+		"/C/Open Server/domains/balk/index.html",
+		"/C/Open Server/domains/wp1/wp-content/themes/myfirstheme/index.php",
+		"/C/Users/qwazi/Desktop/g/start/bower/lt-ie-9/lt-ie-9.js",
+		"/C/Open Server/domains/wp1/wp-content/index.php",
+		"/C/Users/qwazi/Desktop/g/start/main.css",
+		"/C/Users/qwazi/Desktop/g/start/bower.json",
+		"/C/Users/qwazi/Desktop/g/start/index.html",
+		"/C/Open Server/domains/wp1/wp-content/themes/myfirstheme/header.php",
+		"/C/Users/qwazi/AppData/Local/Microsoft/Windows/INetCache/IE/3BBA6WO7/modernizr-2.8.3-respond-1.4.2.min.js",
+		"/C/Users/qwazi/Desktop/Новая папка/start/gulpfile.js",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-53-46-1760.txt",
+		"/C/Open Server/userdata/temp/email/2016-03-27_20-28-58-7370.txt",
+		"/C/Open Server/domains/balk/css/main.css",
+		"/C/Open Server/domains/balk/calc/osteklenie-balkonov.html",
+		"/C/Open Server/domains/balk/assets/templates/site/js/jquery-ui.min.js",
+		"/C/Open Server/domains/balk/otdelka-lodzhij.html",
+		"/C/Open Server/domains/balk/libs/js/jquery.featureCarousel.js",
+		"/C/Open Server/domains/balk/libs/index.html",
+		"/C/Open Server/domains/oknarem/osteklenie-balkonov",
+		"/C/Open Server/domains/oknarem/assets/templates/site/css/main.css",
+		"/C/Open Server/domains/oknarem/osteklenie-balkonov.html"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"callback.php",
+			"ajax.php",
+			"callback1",
+			"#callback1",
+			"#cal",
+			"id=\"price\"",
+			"<form",
+			"form",
+			".price",
+			".master",
+			".price",
+			".master.btn, .btn.price",
+			">\n",
+			"ответс",
+			"master",
+			"вызвать",
+			"call",
+			"узнать",
+			".form__header .close",
+			"callback",
+			"id=\"callback\"",
+			"callback",
+			"узнать ",
+			"main__footer",
+			"header",
+			"service__text",
+			"вызвать мастера ",
+			"вызвать мастера бесплатно",
+			"767",
+			".bg-section__wrapper",
+			".bg-section__header",
+			"/*',",
+			"dest.on",
+			".btn.price",
+			".bg-section__header",
+			"select",
+			"menu",
+			"tri",
+			"servi",
+			"master",
+			"&& ",
+			"$",
+			"                \n",
+			"noinde",
+			"/assets/",
+			"/assets/templates/site",
+			"/assets",
+			"$",
+			"callback",
+			".reviews__list .rev_right",
+			".bal_right .sw_block .bl_sw",
+			"otdelka",
+			"osteklenie",
+			"form",
+			"reviews__block",
+			"bl_hot ",
+			"bl_hot inactive_",
+			"/fancybox",
+			"ob",
+			"s3",
+			"osteklenie",
+			"section",
+			"balkon_config",
+			".bal_right",
+			".l_config .l_price div.price",
+			".l_config .l_price",
+			".l_config .l_layer",
+			".okno_mod .hh",
+			".okno_mod .okno_b4",
+			".l_config .l_block p",
+			".l_config .l_floor{left:20px; ",
+			".l_config .l_floor{left:",
+			".l_config .l_floor{",
+			".l_config .l_floor",
+			".l_config  .l_skaf{left: 2px;top: 205px;}",
+			".l_config .l_block{",
+			".l_config ",
+			".l_config .l_skaf",
+			".l_config .l_block .swich",
+			".l_config .l_block p",
+			".l_config  .l_skaf{left: 2px;top: 222px;}",
+			".l_config  .l_skaf ",
+			".l_config .l_skaf ",
+			".l_config .l_skaf",
+			".l_config .l_block",
+			".l_config .l_block p",
+			"background-size: 100%;",
+			".l_config .l_block .swich span",
+			".l_config .l_right .l_block",
+			".l_config .l_right .l_block ",
+			".l_config .l_right .l_block p",
+			".l_config .l_otdelka",
+			"645px",
+			".l_config .l_right",
+			".bal_config .b_yellow",
+			".bal_right .features_hot",
+			".bal_config .b_yellow",
+			".bal_right .sw_block .bl_hot",
+			".bal_right .sw_block .blsw",
+			".ui-slider .ui-slider-handle",
+			".ui-slider .ui-slider-handle {cursor: default;height: ",
+			".ui-slider .ui-slider-handle",
+			".bal_right .features_cold",
+			".bal_left",
+			".bal_right .features_hot .f3",
+			".bal_config .b_yellow",
+			".bal_right .sw",
+			".bal_right",
+			".cold_bg",
+			".bal_left .bal_shell",
+			".bal_left",
+			".bal_right .features_cold h3",
+			".content",
+			".menu",
+			"menu",
+			"largeFeatureHeight",
+			"zindex",
+			"top:",
+			"top^",
+			"top",
+			".top__right span.ico",
+			"fonts/",
+			"@media",
+			"table",
+			"td",
+			"ol",
+			"ul",
+			"div.right-block-foto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../forms/callback.php",
+			"assets/",
+			"..",
+			"assets",
+			"libs/fancybox",
+			"background-size: 100% !important; ",
+			"530px",
+			"",
+			"valign=\"middle\"",
+			"",
+			".modalbs",
+			"xs",
+			"",
+			"img/",
+			"url('fonts/",
+			"img/",
+			"/img/",
+			".pagination > .wp-pagenavi",
+			".pagination > wp-pagenavi",
+			"",
+			"img/",
+			"<?php bloginfo('template_url')?>/css/",
+			"<?php bloginfo('template_url')?>/js/",
+			"<?php bloginfo('template_url')?>/img/",
+			"get_template_directory_uri()/img/",
+			"i",
+			"+7 962 142 14 12",
+			".png",
+			".min.png",
+			"min.png",
+			"_mouseDown",
+			"file:///C:/Users/qwazi/Desktop/mail/img/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/mail.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Asphalt.tmTheme",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/callback.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Asphalt.tmTheme",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/calcForm.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Asphalt.tmTheme",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/index 2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16890,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 2356,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										1876,
+										1882
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								16779,
+								16841
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Asphalt.tmTheme",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6685.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/qwazi/AppData/Local/Temp/fz3temp-1/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2773,
+								2773
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Asphalt.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/qwazi/megarealty.ua/ru/tourism/otdyh-podbor-tura/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								788,
+								788
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Asphalt.tmTheme",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "",
+	"project": "tile.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
